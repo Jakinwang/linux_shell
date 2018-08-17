@@ -1,2 +1,2 @@
 # linux_shell
-about linux shell skill for memory
+mark something about the shell usage
